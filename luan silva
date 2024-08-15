@@ -1,0 +1,21 @@
+echo "# luansilva" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/luan-333/luansilva.git
+git push -u origin main
+echo "# luansilva" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/luan-333/luansilva.git
+git push -u origin main
+echo "# luansilva" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/luan-333/luansilva.git
+git push -u origin main
